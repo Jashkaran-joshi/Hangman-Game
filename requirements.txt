@@ -1,0 +1,8 @@
+# Hangman Game Requirements
+# Tested on Python 3.10+
+
+# GUI library (Tkinter comes built-in with Python, no need to install separately)
+# If running on Linux, ensure tkinter is installed via system package manager
+
+# Optional: Pillow (if you plan to extend image handling)
+# pillow==10.4.0
